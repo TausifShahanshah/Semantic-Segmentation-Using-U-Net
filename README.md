@@ -1,2 +1,1 @@
-# Stock-Price-Prediction
-This is the project for stock price prediction using RNN
+This is the project for semantic segmentation using U-Net
